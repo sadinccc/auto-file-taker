@@ -1,0 +1,75 @@
+#talkk {
+    margin-top: 20px;
+    font-size: 40px;
+    background-color: rgb(165, 165, 165);
+    text-align: center;
+    width: 500px;
+    margin-left: 550px;
+    line-height: 90px;
+    border: solid 1.5px black;
+}
+#nilam {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 100px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#Ernad {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 500px;
+    margin-top: -88px;
+}
+#Thirurangadi {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 900px;
+    margin-top: -88px;
+}
+#Tirur {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 1300px;
+    margin-top: -88px;
+}
+#Perinthalmanna {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#Kondotty {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 500px;
+}
+#Ponnani {
+    background-color: rgb(103, 189, 218);
+    width: 300px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 900px;
+    margin-top: 100px;
+}
